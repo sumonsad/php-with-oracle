@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>UserName</th>
+            <th>Email</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Raiyan</td>
+            <td>raiyan@gmail.com</td>
+            <td>12345</td>
+        </tr>
+    </tbody>
+</table>
